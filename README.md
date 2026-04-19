@@ -1,5 +1,6 @@
-# AOCUM
-AOCUM (AI-Oriented Corpus Management System)
+# AOCUM: AI-Oriented Corpus Management System
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19411392.svg)](https://doi.org/10.5281/zenodo.19411392)
+
 Status: Work In Progress (WIP) / Research & Development
 Proposed by: ぼちぴ (Bochipi)
 
